@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-	printf("github example change\n");
+	printf("master update!!\n");
 
 	return 0;
 }
